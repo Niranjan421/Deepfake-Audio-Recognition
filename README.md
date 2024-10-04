@@ -26,7 +26,7 @@ Deploy: Implement the trained RNN model in a real-time system for deepfake audio
 Monitor: Continuously track the model’s performance and update it as needed to handle new deepfake techniques.
 
 # Installation
-To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the app.py file to run it; your site will be up and running."
+To install it, download all the files in a ZIP format, check the image location according to your device, and then click on the app.py file to run it,your site will be up and running.
 
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
