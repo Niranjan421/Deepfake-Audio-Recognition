@@ -1,5 +1,12 @@
+<a id="readme-top"></a>
+
 # Deepfake-Audio-Recognition
 
+## Explanatory Video for Deepfake-Audio-Recognition
+Comming Soon!
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 Certainly! Here’s a concise breakdown of a deepfake audio detection project using an RNN model in four short points:
 
 Data Collection and Preprocessing:
@@ -17,3 +24,19 @@ Deployment and Monitoring:
 
 Deploy: Implement the trained RNN model in a real-time system for deepfake audio detection.
 Monitor: Continuously track the model’s performance and update it as needed to handle new deepfake techniques.
+
+
+
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
+
+
