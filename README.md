@@ -3,7 +3,7 @@
 # Deepfake-Audio-Recognition
 
 ## Explanatory Video for Deepfake-Audio-Recognition
-Comming Soon!
+https://github.com/user-attachments/assets/235bd088-31a7-4f3f-be5f-d80faf7b8561
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
