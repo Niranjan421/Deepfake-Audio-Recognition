@@ -5,6 +5,12 @@
 ## Explanatory Video for Deepfake-Audio-Recognition
 https://github.com/user-attachments/assets/235bd088-31a7-4f3f-be5f-d80faf7b8561
 
+
+
+## Index: 
+- [About The Project](#About-The-Project)
+- [Installation](#Installation)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Certainly! Here’s a concise breakdown of a deepfake audio detection project using an RNN model in four short points:
