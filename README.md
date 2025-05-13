@@ -26,9 +26,10 @@ Train Model: Train the RNN on the processed audio data to classify audio as real
 Model Evaluation:
 
 Assess Performance: Evaluate the model using metrics like accuracy, precision, recall, and F1 score on a validation dataset.
+
 Deployment and Monitoring:
 
-Deploy: Implement the trained RNN model in a real-time system for deepfake audio detection.
+ Implement the trained RNN model in a real-time system for deepfake audio detection.
 Monitor: Continuously track the model’s performance and update it as needed to handle new deepfake techniques.
 
 # Installation
